@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Input\AccelerometerInput.cs">
+    <Files>
+      <File FileName="Assets\collectManager.cs" Line="13" Column="16" />
+      <File FileName="Assets\PlayerData.cs" Line="1" Column="1" />
+      <File FileName="Assets\CollectorScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SwipeMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\WallDetectorScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\WallsManagerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\ObsticleScript.cs" Line="25" Column="9" />
+      <File FileName="Assets\LevelManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\RatingManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\ResumeTime.cs" Line="1" Column="1" />
+      <File FileName="Assets\ReloadScene.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RotationScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\LevelData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Spawn\NewSpawmMaster.cs" Line="4" Column="23" />
+      <File FileName="Assets\Scripts\Input\AccelerometerInput.cs" Line="57" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

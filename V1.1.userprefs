@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ToggleStateScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\SwipeMovement.cs" Line="125" Column="1" />
+      <File FileName="Assets\ToggleStateScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Spawn\CustomerSpawnScript.cs" Line="138" Column="5" />
+      <File FileName="Assets\Scripts\Spawn\EnemyDestroyer.cs" Line="10" Column="2" />
+      <File FileName="Assets\Scripts\Spawn\EnemyAIScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Spawn\EnemySpawner.cs" Line="24" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
