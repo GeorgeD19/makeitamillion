@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 834255e99caec7b45adaab2c3a9d5f59
+labels:
+- Swipe
+- Finger
+- Gesture
+- Android
+- Handheld
+- Device
+- Movement
+- Melee
+- Combat
+- Ranged
+- Fighting
+- Trailer
+- Action
+- Utility
+- Starting
+- C#
+- Controller
+- Draw
+- Trail
+- Orthographic
+- Perspective
+- 2D
+- 3D
+- Projectile
+TextScriptImporter:
+  userData: 
